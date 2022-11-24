@@ -11,7 +11,7 @@
     {
       "type": "patchouli:text",
       "title": "Interacciones",
-      "text": "$(br) + Duralumin: aumenta mucho la probabilidad de evasión. $(br2) + Lerasium: aumenta un poco la probabilidad de evasión. $(br2) + Ambos: aumenta al máximo la probabilidad de evasión."
+      "text": "$(br) + Duralumín: aumenta mucho la probabilidad de evasión. $(br2) + Lerasium: aumenta un poco la probabilidad de evasión. $(br2) + Ambos: aumenta al máximo la probabilidad de evasión."
     }
   ]
 }
