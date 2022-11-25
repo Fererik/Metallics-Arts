@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:text",
-      "text": "$(br2)$(br2)$(br2)Decantar:$(br2) - Mientras almacenas, te hace brillar para el resto de jugadores (luminiscencia)."
+      "text": "$(br2)$(br2)$(br2)Decantar:$(br2) - Mientras almacenas, brillas para el resto de jugadores (luminiscencia)."
     }
   ]
 }
